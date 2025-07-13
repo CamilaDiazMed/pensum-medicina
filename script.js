@@ -26,7 +26,7 @@ const materias = [
     nivel: 3,
     items: [
       { nombre: "Formación Ciudadana y Constitución", creditos: 0 },
-      { { nombre: "Salud y Sociedad II", creditos: 3, prerequisitos: ["Salud y Sociedad I"] },
+      { nombre: "Salud y Sociedad II", creditos: 3, prerequisitos: ["Salud y Sociedad I"] },
       { nombre: "Cardiorrespiratorio", creditos: 7, prerequisitos: ["Autorregulación y Autoconservación"] },
       { nombre: "Movimiento y Postura", creditos: 7, prerequisitos: ["Neurociencias", "Cardiorrespiratorio"] },
       { nombre: "Hematología", creditos: 3, prerequisitos: ["Autorregulación y Autoconservación"] },
